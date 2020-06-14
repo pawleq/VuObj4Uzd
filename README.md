@@ -12,3 +12,11 @@ If you are using compilers like g++ :
   make - makes the executable file
   
   clean - deletes it
+  
+# How does results look like?
+
+The result file named *"WordsAndLinksFRQ"* contains :
+
+  Unique words which are found in the *"test.txt"* file;
+  Frequency of used words;
+  Lines where the word has showed up.
