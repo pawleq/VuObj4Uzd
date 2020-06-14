@@ -18,6 +18,7 @@ If you are using compilers like g++ :
 The result file named *"WordsAndLinksFRQ"* contains :
 
   Unique words which are found in the *"test.txt"* file;
+
   Frequency of used words;
   
   Lines where the word has showed up.
